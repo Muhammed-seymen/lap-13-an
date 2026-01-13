@@ -2,8 +2,8 @@
 
 ## Cihaz Özellikleri Uygulaması (DeviceFeaturesApp)
 
-- **Öğrenci Adı**: hozeifa shekhani 
-- **Öğrenci Numarası**: 220404941  
+- **Öğrenci Adı**: Muhammed seymen 
+- **Öğrenci Numarası**: 220404904  
 
 ### Kurulum
 
